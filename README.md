@@ -1,6 +1,12 @@
 # Terraform AWS OpenVPN
 From Paul Marsicovetere's [terraform-aws-openvpn-ephemeral](https://github.com/paulmarsicloud/terraform-aws-openvpn-ephemeral) repository 
 
+Use [m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper)
+A CLI to help with managing the installation and compilation of terraform providers when running a new M1 Mac.
+
+Install the [Session Manager plugin for the AWS CLI](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html)
+
+
 ### TF_VAR_(iables)
 
  * `TF_VAR_instance_type` - ec2 instance type, defaults ec2

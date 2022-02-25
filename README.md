@@ -1,5 +1,5 @@
 # Terraform AWS OpenVPN
-To take advantage free t2.micro instance
+From Paul Marsicovetere's [terraform-aws-openvpn-ephemeral](https://github.com/paulmarsicloud/terraform-aws-openvpn-ephemeral) repository 
 
 ### TF_VAR_(iables)
 
